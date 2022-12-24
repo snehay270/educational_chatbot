@@ -1,0 +1,135 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
+         "responses": ["Hello, thanks for asking", "Good to see you again", "Hi there, how can I help?"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+         "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure"],
+         "context": [""]
+        },
+        {"tag": "noanswer",
+         "patterns": [],
+         "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"],
+         "context": [""]
+        },
+	{"tag": "What are the effects of education",
+         "patterns": ["What are the effects of education?"],
+         "responses": ["Education leads to economic prosperity in the global marketplace."],
+         "context": [""]
+        },
+	{"tag": " why is education importance in our life",
+         "patterns": ["why is education importance in our life" ],
+         "responses": ["Education is very necessary for each and everyone in order to improve knowledge, way of living as well as social and economic status throughout the life.  It helps a person to get knowledge and improve confidence level all through the life. It plays a great role in our career growth as well as in the personal growth"],
+         "context": [""]
+        },
+	{"tag": " which is your favourite subject why  ",
+         "patterns": ["which is your favourite subject why " ],
+         "responses": ["my favorite subject is English. I have always scored well on the subject because I understand it well. It makes learning effortless and I always manage to get good marks. There are other subjects I like too but English definitely tops my list. "],
+         "context": [""]
+        },
+        {"tag": " what is python ",
+         "patterns": ["what is python " ],
+         "responses": ["Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures. "],
+         "context": [""]
+        },
+	{"tag": " What role do you think government should play in education ",
+         "patterns": ["What role do you think government should play in education? "],
+         "responses": ["The government politicians and policy makers should make sure that all students get equal opportunities regardless of their background, thats the main thing. "],
+         "context": [""]
+        },
+	{"tag": " What was your favourite moment or experience in your own education ",
+         "patterns": ["What was your favourite moment or experience in your own education? "],
+         "responses": ["Was implies that it ended and it hasnt ended really- its ongoing, but so far, I would say the school play every year, that was my favorite memory, collaborating with everyone and putting it all together. And also as a teacher, thats my favorite seeing the whole class flourish on stage and working together. "],
+         "context": [""]
+        },
+	{"tag": " How does education give you a better future ",
+         "patterns": ["How does education give you a better future? "],
+         "responses": ["You gain knowledge, skills and experience to help you both in your career and in life in general. "],
+         "context": [""]
+        },
+	{"tag": " polytechnic ",
+         "patterns": ["how many branches are there for polytechnic "],
+         "responses": ["there are 5 branches that is Mechanical,civil,IT,computer,E&TC "],
+         "context": [""]
+        },
+	{"tag": " Who is the father of education ",
+         "patterns": ["Who is the father of education?"],
+         "responses": ["Known as the father of American education, Horace Mann "],
+         "context": [""]
+        },
+	{"tag": " What is importance education ",
+         "patterns": ["What is importance education? "],
+         "responses": ["Proper and good education is very important for all of us. It facilitates quality learning all through the life among people of any age group, cast, creed, religion and region. It is the process of achieving knowledge, values, skills, beliefs, and moral habits. "],
+         "context": [""]
+        },
+	{"tag": " Who first discovered education ",
+         "patterns": ["Who first discovered education "],
+         "responses": ["According to legendary accounts, the rulers Yao and Shun (ca. 24th 23rd century BC) established the first schools. The first education system was created in Xia dynasty "],
+         "context": [""]
+        },
+     	{"tag": " What is the scope of education ",
+         "patterns": ["What is the scope of education? "],
+         "responses": ["Scope means range of outlook, view, application, operation and effectiveness. "],
+         "context": [""]
+        },
+	{"tag": " What is the education system ",
+         "patterns": ["What is the education system? "],
+         "responses": ["An education system refers to the economic and social factors that typically make up public schools at the federal, state or community levels "],
+         "context": [""]
+        },
+	{"tag": " How education can change the society ",
+         "patterns": ["How education can change the society?"],
+         "responses": ["Education can stimulate economic growth less directly, by increasing innovation, productivity, and human capital. And education also has a history of fostering positive social change, by encouraging things like political participation, social equality, and environmental sustainability. "],
+         "context": [""]
+        },
+
+	{"tag": " What is called education ",
+         "patterns": ["What is called education? "],
+         "responses": ["Education is the process of facilitating learning, or the acquisition of knowledge"],
+         "context": [""]
+        },
+        
+   	{"tag": " Which education field is best ",
+         "patterns": ["Which education field is best? "],
+         "responses": ["Learning and development coordinator,High school teacher,Health educator,Special education teacher. National average salary "],
+         "context": [""]
+     	},
+
+	{"tag": " What is history of education ",
+         "patterns": ["What is history of education?"],
+         "responses": ["History of education is therefore a study of the past that focuses on educational issues. These include education systems, institutions, theories, themes and other related phenomena.  When you study the past, you are able to understand the process of education and how it evolved up to the present. "],
+         "context": [""]
+        },
+        {"tag": " Can education make a difference ",
+         "patterns": ["Can education make a difference? "],
+         "responses": ["It helps people become better citizens, get a better-paid job, shows the difference between good and bad "],
+         "context": [""]
+        },
+        
+        {"tag": " Why is education the most powerful weapon ",
+         "patterns": ["Why is education the most powerful weapon? "],
+         "responses": ["Education is the most powerful weapon you can use to change the world. "],
+         "context": [""]
+        },
+        
+         {"tag": " What are the roles as a student",
+         "patterns": ["What are the roles as a student? "],
+         "responses": ["Students' role in the educational system is to learn what they are being taught, and most importantly "],
+         "context": [""]
+        },
+        
+        {"tag": " How is education power",
+         "patterns": ["How is education power? "],
+         "responses": ["Education is the most empowering force in the world. It creates knowledge, builds confidence "],
+         "context": [""]
+        }
+        
+   		         ]
+}
